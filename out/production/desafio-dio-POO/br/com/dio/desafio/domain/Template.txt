@@ -1,0 +1,13 @@
+Curso = Carteira (Wallet)
+-   Atributos
+titulo
+descricao
+cargaHoraria
+-   Metodos
+calcularXp();
+
+
+Mentoria = Acao(Assets)
+-   Atributos
+Titulo
+Descricao
