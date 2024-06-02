@@ -1,3 +1,4 @@
+import br.com.dio.desafio.domain.Conteudo;
 import br.com.dio.desafio.domain.Curso;
 import br.com.dio.desafio.domain.Mentoria;
 
@@ -23,6 +24,11 @@ public class Main {
         System.out.println(curso2);
         System.out.println("_________________");
 
+        Conteudo conteudo = new Curso();
+
+
+
+        System.out.println("_________________");
         Mentoria mentoria = new Mentoria();
 
         mentoria.setTitulo("Habitos e Vicios..");
