@@ -9,7 +9,7 @@ public class Mentoria extends Conteudo {
     public Mentoria (){}
 
     @Override
-    public double CalcularXp() {
+    public double calcularXp() {
         return XP_PADRAO + 10d ;
     }
 
